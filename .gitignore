@@ -1,0 +1,20 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Python env and artifacts
+.env
+.venv
+
+# Flutter/Dart build artifacts
+Dasboard/focus_zone_fe/build/
+Dasboard/focus_zone_fe/.dart_tool/
+Dasboard/focus_zone_fe/.flutter-plugins
+Dasboard/focus_zone_fe/.flutter-plugins-dependencies
+Dasboard/focus_zone_fe/.packages
+Dasboard/focus_zone_fe/.pub-cache/
+Dasboard/focus_zone_fe/.pub/
